@@ -13,5 +13,5 @@ The conditions are as follows:
 
 OUTPUT:
 
-![Screenshot (9)](https://user-images.githubusercontent.com/119129522/213611354-7a9e4c5f-c65c-49e3-976a-98f0799833a3.png)
+
 
