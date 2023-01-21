@@ -14,7 +14,7 @@ main()
     }
     else if(income>300000 && income<=500000)
     {
-        tax=0+150000+(income-300000)*0.20;
+        tax=0+15000+(income-300000)*0.20;
     }
     else
     {
